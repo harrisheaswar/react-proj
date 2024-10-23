@@ -1,1 +1,2 @@
-# react-proj
+# React + Vite
+
